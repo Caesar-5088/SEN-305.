@@ -1,2 +1,2 @@
-# SEN-305.
+# SEN-305
 Mr Bonaventure's assignment 
